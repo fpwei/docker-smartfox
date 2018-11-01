@@ -1,5 +1,5 @@
 ### Image
-`docker pull fpwei/smartfox`
+`$ docker pull fpwei/smartfox`
 
 [Docker Hub](https://hub.docker.com/r/fpwei/smartfox/)
 
